@@ -1,0 +1,1 @@
+Moje coroczne zmagania z AOC!! ;)
