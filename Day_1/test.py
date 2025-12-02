@@ -1,1 +1,1 @@
-print(856 // 100)
+print(len(str(12345)))
